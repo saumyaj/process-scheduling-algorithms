@@ -1,0 +1,9 @@
+./compilation_script will genertate the class files.
+
+Simulator.java contains the main method.
+
+To run the Simulator run the following command after compiling
+
+java Simulator <input_file_path>
+
+The output files will be generated in the current directory
